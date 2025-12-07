@@ -9,11 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A D flip-flop is a digital circuit that stores a single bit of data. It's a clocked sequential logic circuit, meaning it changes its output based on the data input and a clock signal. Essentially, it captures and holds the value present at its input (D) when the clock signal transitions from low to high (rising edge). 
+
+
 
 ## How to test
 
-Explain how to use your project
+D_n = 0 | Q_n = x | Q_(n+1) = 0
 
 ## External hardware
 
