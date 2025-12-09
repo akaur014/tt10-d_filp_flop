@@ -15,7 +15,14 @@ A D flip-flop is a digital circuit that stores a single bit of data. It's a cloc
 
 ## How to test
 
+D_n | Q_n | Q_(n+1)
+
 D_n = 0 | Q_n = x | Q_(n+1) = 0
+D_n = 1 | Q_n = 0 | Q_(n+1) = 0
+D_n = 1 | Q_n = 0 | Q_(n+1) = 1
+D_n = 1 | Q_n = 1 | Q_(n+1) = 1
+D_n = 0 | Q_n = 1 | Q_(n+1) = 0
+
 
 ## External hardware
 
